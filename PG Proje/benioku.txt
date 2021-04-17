@@ -1,0 +1,54 @@
+users.txt // Kullanıcı giriş adı şifre yeri
+
+username şifre
+username şifre //şeklinde yazılmalıdır.
+
+readers.txt // Okuyucu kayıtları
+
+TC No
+İsim
+Soyisim
+Telefon No.
+Doğum Tarihi
+Meslek
+Üye No.
+Alabileceği kitap sayısı(Varsayılan 3)
+
+TC No
+İsim
+Soyisim
+Telefon No.
+Doğum Tarihi
+Meslek
+Üye No.
+Alabileceği kitap sayısı(Varsayılan 3) // Şeklinde sıralanmalıdır.
+
+books.txt // Kitap kayıtları
+
+ISBN
+Kitap adı
+Yazar adı
+Yazar soyadı
+Konusu
+Türü
+Sayfa sayısı
+Mevcutluk durumu (+ veya -)(Varsayılan +)
+
+ISBN
+Kitap adı
+Yazar adı
+Yazar soyadı
+Konusu
+Türü
+Sayfa sayısı
+Mevcutluk durumu (+ veya -)(Varsayılan +) // Şeklinde sıralanmalıdır.
+
+borrow.txt // Ödünç alma kayıtları
+
+TC ISBN
+Alma tarihi (Sistem otomatik veriyor)
+Verme tarihi (Sistem otomatik veriyor)
+
+TC ISBN
+Alma tarihi (Sistem otomatik veriyor)
+Verme tarihi (Sistem otomatik veriyor) // Şeklinde sıralanmalıdır.
